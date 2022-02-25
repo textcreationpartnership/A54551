@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Lord Major, aldermen and common council-men of the city of London in Common Council assembled to the Parliament for the reducing of all foreign trade under government : as also the petition, together with the proposals of several merchants of London ... humbly tendered to the grand committee of Parliament for trade ; containing the desired manner and method for such regulation.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54551</idno>
+            <idno type="STC">Wing P1817</idno>
+            <idno type="STC">ESTC R30772</idno>
+            <idno type="EEBO-CITATION">11467402</idno>
+            <idno type="OCLC">ocm 11467402</idno>
+            <idno type="VID">47804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1467:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Lord Major, aldermen and common council-men of the city of London in Common Council assembled to the Parliament for the reducing of all foreign trade under government : as also the petition, together with the proposals of several merchants of London ... humbly tendered to the grand committee of Parliament for trade ; containing the desired manner and method for such regulation.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>p. 3-16.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.J. and are to be sold by Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commerce --  Early works to 1800.</term>
+               <term>London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47804:1"/>
+            <pb facs="tcp:47804:1" rendition="simple:additions"/>
+            <p>THE PETITION OF THE Lord Major, Aldermen, and Common-Council-men of the City of <hi>London,</hi> in Common-Council aſſembled, TO THE PARLIAMENT, For the Reducing of all Forein Trade under Government; <hi>AS ALSO</hi> THE PETITION, Together with the PROPOSALS Of ſeveral Merchants of
+<hi>London,</hi> on the behalf of themſelves and the Merchants of <hi>ENGLAND.</hi> Humbly tendred to the <hi>Grand Committee of Parliament for Trade;</hi> Containing the deſired Manner and Method for ſuch REGULATION.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. J.</hi> and are to be ſold by <hi>Ralph Smith</hi> at the Sign of the <hi>Bible</hi> in <hi>Cornhill.</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:47804:2"/>
+            <pb n="3" facs="tcp:47804:2"/>
+            <head>To the Right Honorable, The Knights, Citizens, and Burgeſſes of the Commons Houſe of
+<hi>PARLIAMENT:</hi> The Humble <hi>PETITION</hi> of the Lord Major, Aldermen and Commons of the City of <hi>London,</hi> in Common-Council aſſembled;</head>
+            <opener>SHEWETH,</opener>
+            <p>THat your Petitioners ſmart ſence of the Decay of <hi>Trade,</hi> hath dri<g ref="char:EOLhyphen"/>ven them to a ſad and ſerious Enquiry into the Cauſe, And having (as they conceive) made a full Diſcovery thereof, think it their duty to the publick Intereſt, to repreſent the ſame in all humi<g ref="char:EOLhyphen"/>ty to this Honorable Houſe: That which they apprehend moſt deſtructive, is the Diverſion of the moſt part of the Trade of Exporting the Commodities of our Native Growth and Manufactures, into
+<pb n="4" facs="tcp:47804:3"/>the hands of Aliens; By which the onely means of increaſing the Common Stock of our Nation is loſt, and if ſome timely Remedy be not applied by your Wiſdom and Authority, our Navigation muſt de<g ref="char:EOLhyphen"/>cay, our ſucceſsion of Engliſh Merchants be extinct, and our condition become the ſame it was, when thoſe of Foreign Na<g ref="char:EOLhyphen"/>tions were the onely Merchants known in <hi>England;</hi> and by our being more Buyers then Sellers, our Lands, by reaſon of the ſcarcity of Money, not worth above the tenth part of what they now are. And ſhould the Strangers be permitted, by themſelves here (who live ſingle in hired Chambers) exempt from family expence or the publick charge of all Offices, or by Packers and other mechanick perſons, to carry on their Trades as Engliſh; not onely this City, but all other His Maje<g ref="char:EOLhyphen"/>ſties Cities (Townes Corporate) and others, muſt neceſſarily decay, and be diſ<g ref="char:EOLhyphen"/>abled
+<pb n="5" facs="tcp:47804:3"/>to ſerve the publick Government in purſe and office. For preſervation where<g ref="char:EOLhyphen"/>of, your Petitioners humbly pray,</p>
+            <closer>
+               <signed>
+                  <hi>That it may pleaſe this Honorable Houſe (the Sanctuary of the Commons of</hi> England) <hi>to provide, That the Trade of</hi> Exportation <hi>(to foreign Parts) of all Eng<g ref="char:EOLhyphen"/>liſh Goods and Manufactures, by the Engliſh Sub<g ref="char:EOLhyphen"/>jects not yet incorporated, may be reduced under Go<g ref="char:EOLhyphen"/>vernment and Regulation, by His Majeſties Char<g ref="char:EOLhyphen"/>ter under the Great Seal of</hi> England,
+<hi>and confirmed to Engliſh onely. And that thoſe Trades that aye already under Regulation, may be confirmed in ſuch manner, as may not exclude any Engliſh Merchant that ſubmits to the Government in all, or any the reſpective Ports and places of this His Majeſties Kingdom. And that all Aliens may pay the ſame Subſidies and Cuſtoms on all Engliſh Draperies by them exported, as they paid before the reduction of the Rates thereof, by the laſt Act of Parliament,</hi> And the Petitioners ſhall pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:47804:4"/>
+            <head>To the Right Honourable, The Grand Committee of Parliament for <hi>TRADE.</hi>
+            </head>
+            <head type="sub">The humble Petition of the reſpective Merchants of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Trading into Forreign parts, on the behalf of them<g ref="char:EOLhyphen"/>ſelves, and the Merchants of the Out-Ports of this King<g ref="char:EOLhyphen"/>dom;</head>
+            <opener>SHEWETH,</opener>
+            <p>THat your Petitioners do humbly conceive, That as Government and Regulation is ab<g ref="char:EOLhyphen"/>ſolutely neceſſary for the common good of all Societies of men in general, ſo it is as ex<g ref="char:EOLhyphen"/>pedient for all Subordinate degrees and pro<g ref="char:EOLhyphen"/>feſsions in particular: and becauſe the Forreign Trade is the onely means to enlarge the Common Stock, and Capi<g ref="char:EOLhyphen"/>tal of the Nation, and the Revenue thereof, they therefore humbly pray,</p>
+            <p>
+               <hi>That for the more ample Reaſons offered in the Pre<g ref="char:EOLhyphen"/>amble of the annexed Propoſals, for the deſired Regulation, your Honours would be pleaſed to con<g ref="char:EOLhyphen"/>ſider of the form therein humbly tendred, for the erection and execution of the Government of Forreign Trade, and to report the ſame to the Ho<g ref="char:EOLhyphen"/>nourable Houſe, as in your wiſdoms you ſhall finde moſt conducing to the Publick good of the king<g ref="char:EOLhyphen"/>dom,</hi>
+            </p>
+            <closer>And your Petitioners ſhall ever pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="reasons">
+            <pb n="7" facs="tcp:47804:4"/>
+            <head>REASONS For the REGULATION OF Forreign Trade.</head>
+            <p>WHereas much of the Honor, Happineſs, and Proſperity of this Kingdom doth depend upon the Forreign Trade and Commerce thereof, which therefore ought by all means, and with all care to be encouraged, and ſuch Laws made, as may prevent the decay, and remove the impediments and diſcouragements which hinders its encreaſe and advancement. And where<g ref="char:EOLhyphen"/>as experience doth ſufficiently manifeſt that want of good Order and Regulation, which opens the door to Ignorance on the one hand, and Covetouſneſs on the other, is the foundation, as of all evil in the general, ſo of thoſe in par<g ref="char:EOLhyphen"/>ticular which relate to Trade. For whileſt on the one ſide great numbers of Artificers, and others, inexpert and ig<g ref="char:EOLhyphen"/>norant men, make upon them to uſe the Art, Science, and Myſtery of Merchandizing into forreign parts, they, by rea<g ref="char:EOLhyphen"/>ſon
+<pb n="8" facs="tcp:47804:5"/>of their unskilfulneſs, not onely impoveriſh them<g ref="char:EOLhyphen"/>ſelves, but alſo enrich the Foreigners who take advantage of their ignorance to advance their Commodities, and to debaſe thoſe of this Kingdom, and do often thereby alſo neceſſitate the more knowing Merchant to comply with their wills, to their great loſs, and the impoveriſhment of the whole kingdom; And alſo many Gentlemen, who would bring up ſome of their ſons in the Art and Science of Mer<g ref="char:EOLhyphen"/>chandizing, are diſcouraged, when they finde that after they have given good ſumms of money to binde their ſons Apprentices, to learn the ſaid Science; others, that never gave one penny, nor ſerved to learn the ſame, ſhall enjoy the like Priviledge of Trade, to the ruine, not onely of them<g ref="char:EOLhyphen"/>ſelves, but alſo of the Trade, ſo rendring the Fathers coſt and ſons ſervice inſignificant, as to the deſigned end of fu<g ref="char:EOLhyphen"/>ture livelihood. And on the other ſide, whileſt ſubrile and covetous men, who have attained to great eſtates and cre<g ref="char:EOLhyphen"/>dits, having no Rule, but their own covetous deſires to walk by, ſome of them make it their work to oppreſs, and ſuppreſs young men, and fair dealing Merchants in their trades, by overlaying of Markets in Forreign parts, and buying up Commodities there; neceſsitating thereby, thoſe that have not equal ſtocks and credits with them, to looſe in the ſale of their Engliſh commodities, and to pay exceſsive rates for Forreign; And others, being ſhop-keepers, and Retailers, engroſs both the Merchants Trade, and the Re<g ref="char:EOLhyphen"/>taylers alſo; thereby through ignorance ſpoyling the Trade abroad, and through their knowledge and acquaintance at home, circumventing the Merchant in the diſpoſe, and the meaner ſhop-keeper in the providing and diſpoſing of the Commodities of Forreign parts, that both being ruined, the whole Trade might come into a few hands, and they impoſe on the people what rates they pleaſe, the Trade muſt needs decay; many being undone, others diſcouraged,
+<pb n="9" facs="tcp:47804:5"/>the native Commodities of this kingdom in Foreign parts debaſed, and Foreign Commodities Enhaunſed, the ſtran<g ref="char:EOLhyphen"/>ger enriched, and this kingdom impoveriſhed. And whereas ſutable remedies cannot be applyed againſt all the evils that cauſe the decay, nor means preſcribed for the en<g ref="char:EOLhyphen"/>creaſe and advance of Trade and Commerce, without the knowledge of the particular T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ades, and their dependen<g ref="char:EOLhyphen"/>cies, which none are ſo able to repreſent, as the Merchants themſelves, &amp; yet that whilſt the Merchants remain unaſſo<g ref="char:EOLhyphen"/>ciated, and not under a general Regulation by joynt coun<g ref="char:EOLhyphen"/>ſel and conſent, it may be ſuppoſed that every man will be apt to make his own private intereſt and profit, his prin<g ref="char:EOLhyphen"/>ciple and end in all his adviſes and propoſals, ſo that pro<g ref="char:EOLhyphen"/>bably things may be miſ-repreſented, which will be pre<g ref="char:EOLhyphen"/>vented, if the Merchants of every reſpective Trade were Aſſociated; for though a particular man may intend his private profit in all his actings and advices, yet it is ſure that the generality will promote the general concern of the Trade, which as it is their intereſt, ſo it is alſo the kingdoms intereſt.</p>
+            <p>And whereas Trade and Commerce eſpecially, as all o<g ref="char:EOLhyphen"/>ther things in this world, is ſubject to many changes and al<g ref="char:EOLhyphen"/>terations; and that ſuch Rules for the regulation of Trade cannot be ſo made, but that it may be needful for the ge<g ref="char:EOLhyphen"/>neral good, to make often additions of new, and to repeal and lay a ſide former Rules, according to the times, exigen<g ref="char:EOLhyphen"/>ces of affairs, and proceedings of their reſpective Coun<g ref="char:EOLhyphen"/>tries, where, and with whom the Trade is driven.</p>
+            <p>And whereas of late years, many ſtrangers who come into this kingdom, live obſcurely in private Chambers, and contribute nothing to the Publick Charge, yet drive very great Trades, and by means of Packers, Porters, and other perſons of mean or no fortune, whom they imploy, do enter their Merchandize, both Imported, and Exported
+<pb n="10" facs="tcp:47804:6"/>into, and out of this kingdom, deceive the Kings Majeſty of his Cuſtomes, and ſeveral Cities and Corporations of this kingdom, of their Dudes of Scavage, Package,
+<hi>&amp;c.</hi> and alſo hinder and prejudice many Engliſh Merchants, His Majeſties faithful and loyal Subjects, who becauſe they will not, contrary to Law, and their Duty, defraude his Majeſty of his Cuſtomes, by entring ſtrangers goods as Engliſh, which the others do, they looſe their Commiſ<g ref="char:EOLhyphen"/>ſion and imployment; which abuſe cannot be prevented, unleſs all Merchants be brought into Aſſociation, and none permitted to paſs at the Cuſtom-Houſe, as Engliſh men, but Merchants of the ſaid Aſſociation.</p>
+            <p>And whereas in former Ages, many of the Kings of this Land, out of their great wiſdomes for the advancement of trade, have given their Royal Charters to ſeveral diſtinct ſorts of Merchants, to Incorporate themſelves for the bet<g ref="char:EOLhyphen"/>ter carrying on, and Regulating their reſpective Trades, as to the Merchants called, The Merchant Adventurers of <hi>England,</hi> the Merchants trading to <hi>Turkey,</hi> the <hi>Eaſt-land</hi> Merchants, the <hi>Ruſsia,</hi> and <hi>Muſcovia</hi> Merchants, and the Merchants trading to the <hi>Eaſt-Indies;</hi> which Societies have not onely found benefit, by the due Regulations of their Trades, but have been very ſerviceable to His Maje<g ref="char:EOLhyphen"/>ſty, and the whole kingdom; have bred up many Engliſh Merchants in Trades in Foreign parts, advanced many young men, by lending them moneys without, or for very in conſiderable Intereſt, relieved many Merchants that have by the hand of God bin impoveriſhed, maintained and up<g ref="char:EOLhyphen"/>held the Trade in the hands of the Engliſh, and the Honor of the Engliſh Nation in Forein parts, whereas other trades not incorporated, are in a manner totally loſt, as to the Eng<g ref="char:EOLhyphen"/>liſh, and fallen into the hands of Strangers, as is demonſtra<g ref="char:EOLhyphen"/>ble in the French and other Trades: Upon which grounds, as we humbly conceive, His Moſt Excellent Majeſty ſince
+<pb n="11" facs="tcp:47804:6"/>His moſt bleſſed Reſtauration, hath bin graciouſly pleaſed to renew, or confirm all, or moſt of the aforeſaid Charters.</p>
+            <p>And whereas the reaſon that moved the Parliament, in the third Year of King <hi>James, Chap.
+6.</hi> to call in a Charter granted to a few Merchants trading to <hi>Spain, Portugal,</hi> and
+<hi>France,</hi> is now totally removed: And that there are very many Merchants in this Kingdom bred up, and educated in the Myſtery of Merchandizing, and every way ſufficient to carry on the whole Trade of this Kingdom into Foreign parts, which want nothing more then good Encouragement by the due Regulation of their Trades; Without which, it is humbly conceived, the Evils before-mentioned, cannot be prevented, nor the Trade upheld in the hands of the Engliſh, which cannot but be a great Impoveriſhment to the Kingdom, (it being a certain Maxim, That what ever the Engliſh carries out, he doth at laſt bring all, with its increaſe, home to his Native Countrey: Whereas on the contrary, the Strangers Deſign is not to enrich, but to carry away the Riches of the Nation.) But by the enſuing, or ſome ſuch like Aſſociation of, and for Regulation, as by your Honors ſhall be provided, It is hoped that Trade may be enlivened, the Engliſh Merchants encouraged, the Strangers Encroach<g ref="char:EOLhyphen"/>ments prevented, His Majeſties Cuſtoms augmented, and the Capital of the Nation in few years much encreaſed, and by ſuch Eſtabliſhment, His Majeſty and Your Honors, may at any time have before your view at once, how every reſpe<g ref="char:EOLhyphen"/>ctive Trade anſwers in its Exports, to its Imports, and ſo may ſee where chiefly the Intereſt of Trade is by which the Nation is enriched, and by which not; and of what uſe that may be in relation to the Publick, Your Honors beſt know: Wherefore</p>
+         </div>
+         <div type="proposals">
+            <pb n="12" facs="tcp:47804:7"/>
+            <head>It is humbly Propoſed, That it may be Enacted,</head>
+            <p>THat by Authority of His Majeſties Royal Charters un<g ref="char:EOLhyphen"/>der the Great Seal of <hi>England,</hi> the ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Engliſh Merchants, trading into the Dominions of the
+<hi>French</hi> King, the Engliſh Merchants trading into the Do<g ref="char:EOLhyphen"/>minions of the King of
+<hi>Spain,</hi> the Merchants trading into the Dominions of the King of <hi>Portugal,</hi> the Merchants tra<g ref="char:EOLhyphen"/>ding into <hi>Italy,</hi> and ſuch other Merchants, as hereafter His Majeſty ſhall finde convenient, may be Aſſociated and In<g ref="char:EOLhyphen"/>corporated, for the better Regulating and Ordering of the ſaid reſpective Trades, to the profit of this Kingdom, in ſuch manner as is hereafter expreſſed, (that is to ſay;) That all the Engliſh Merchants trading into the Dominions of the <hi>French</hi> King, and ſo of the other reſpective Merchants, <hi>mutatis mutandis,</hi> being ſuch as have been bred up in the Science and Art of Merchandizing into Foreign parts, or ſuch as have for three years laſt paſt exerciſed the ſaid Sci<g ref="char:EOLhyphen"/>ence, and are not Shop-keepers or Retailers, and that ſhall take the Oathes of <hi>Allegiance</hi> and
+<hi>Supremacy,</hi> and ſuch an Oath for Submiſſion to the Regulations to be made, con<g ref="char:EOLhyphen"/>formable to the Powers herein deſired; and not to colour any Foreign Goods, as by Your Honors ſhall be thought reaſonable, may as aforeſaid, be Incorporated, and made a Body Corporate in the Law, to all intents and purpoſes, un<g ref="char:EOLhyphen"/>der the Name and Style of the <hi>Governor, Deputy,</hi> and <hi>Aſ<g ref="char:EOLhyphen"/>ſiſtants</hi> of the Merchants of <hi>England,</hi> trading into the Do<g ref="char:EOLhyphen"/>minions of the <hi>French</hi> King, <hi>&amp;c.</hi>
+            </p>
+            <p>That His Majeſty in ſuch Charter, may pleaſe to nominate and appoint the firſt Governor, Deputy, Treaſurer, and ſuch number of Aſſiſtants, nor exceeding four and twenty, nor leſs then twelve, as He ſhall judge fit; the ſaid Governor
+<pb n="13" facs="tcp:47804:7"/>and Deputy to take the Oathes aforeſaid, before ſuch per<g ref="char:EOLhyphen"/>ſon or perſons as His Majeſty ſhall for that purpoſe Autho<g ref="char:EOLhyphen"/>rize: And that the ſaid Governor or Deputy being ſo ſworn, may be authorized to Adminiſter (or for the eaſe of the Merchants in the countrey, under their hands and ſeals, to depute any Mayor of any Town Corporate in this Kingdom to Adminiſter) the ſaid Oathes to all other perſons qualified as aforeſaid, that ſhall be admitted into any of the ſaid reſpe<g ref="char:EOLhyphen"/>ctive Aſſociations.</p>
+            <p>That Annually on the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> or within <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> days after the ſaid reſpective Merchants ſo aſſociated, ſhall meet at ſome convenient place within the City of <hi>London,</hi> where the Governor or Deputy for the time being, ſhall by ſome publick Writing for that purpoſe fixed on the <hi>Royal Exchange,</hi> appoint to chooſe out from amongſt themſelves a Governor, Deputy, Treaſurer, and ſuch num<g ref="char:EOLhyphen"/>ber of Aſſiſtants, not exceeding four and twenty, nor leſs then twelve; And that all and every the Members of the ſaid reſpective Aſſociations, reſiding out of the City of
+<hi>Lon<g ref="char:EOLhyphen"/>don,</hi> may ſend up the Names of ſuch perſons reſiding in <hi>London,</hi> which he deſires ſhould be chooſen, ſealed up and directed to the Governor or Deputy of the ſaid Aſſociation whereof he is a Member; which ſhall be opened at the ſaid Meeting, and his Vote reckoned in the ſaid Choice, as if he were preſent.</p>
+            <p>That the Governor, or Deputy, or any ſeven of the Aſ<g ref="char:EOLhyphen"/>ſiſtants, may have power as often as occaſion ſhall require, to ſummon the generality together, to ſome convenient place within the City of <hi>London:</hi> And that they, or the major part, ſhall have power to make ſuch By-laws and Regulations for the well-ordering the ſaid reſpective Trades, and to repeal, and make void ſuch former <hi>Rules</hi> by them made, as they, or the major part, ſhall finde to conduce to the general Good, and to impoſe ſuch Impoſitions on Goods imported and ex<g ref="char:EOLhyphen"/>ported,
+<pb n="14" facs="tcp:47804:8"/>for the Maintenance of the Government, not excee<g ref="char:EOLhyphen"/>ding one twentieth part of the Cuſtoms as they now are, on all goods, except Wines; and on Wines, not exceeding one fortieth part of the Cuſtoms as they now are; As alſo to chooſe and appoint ſuch Officer and Officers for the better execution of their Orders, as they ſhall finde conven<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent.</p>
+            <p>Provided, That no Rule of general Concernment ſhall paſs for valid, till it hath been ſent to ſuch parts or places where there are ſix or more Members of that Society, to have their Votes of aſſent or diſſent; upon the return of which Votes, at the next Meeting the ſaid Votes from the coun<g ref="char:EOLhyphen"/>trey being reckoned with their Voting in perſon, it ſhall be eſtabliſhed by the major Vote, or laid aſide. Provided alſo, that no Rule or By-law to be made as aforeſaid, ſhall extend to the reducing any foreign trade (other then that to the
+<hi>Eaſt-Indies</hi>) into a Joynt-ſtock, nor to limit any, for how much or how little they ſhall trade, nor at what price they ſhall buy or ſell; but that every one may trade for as much or as little, and buy and ſell his goods at ſuch prices as he pleaſeth.</p>
+            <p>And that to all Rules ſo made, all the Members of the re<g ref="char:EOLhyphen"/>ſpective Aſſociations in all Ports and places, ſhall be obliged to ſubmit, and to ſuch Payments and Penalties thereby ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p>That in any Port or Town Corporate, where there ſhall be a ſufficient number of perſons, Members of any of the ſaid Aſſociations, to conſtitute a Court according to the propor<g ref="char:EOLhyphen"/>tion appointed for the City of <hi>London,</hi> there they may chooſe Officers, and hold Courts, and for the well ordering the trade of that Port or place, according to the common Rules agreed on by the generality.</p>
+            <p>That every Merchant qualified as aforeſaid, ſhall be Ad<g ref="char:EOLhyphen"/>mitted, and at his firſt Admiſſion into any of the ſaid Aſſo<g ref="char:EOLhyphen"/>ciations, ſhall pay Five pounds towards the raiſing of a Stock
+<pb n="15" facs="tcp:47804:8"/>for carrying on the Government, and in default, ſhall be eſteemed no Member thereof.</p>
+            <p>That any other perſon, though not a Merchant bred, not being an Artificer or Retailer, or having left off his Handy-craft and retayling Trade, ſhal be admitted for a Fine of Forty pounds, to any of the ſaid Aſſociations.</p>
+            <p>That any perſon being a Member of any one of the ſaid Aſſociations, may at any time be admitted into any other, taking the uſual Oath, and paying onely Forty ſhillings for his Fine of Admittance.</p>
+            <p>That all Apprentices whoſe Indentures be duly regiſtred, and all Sons born to the Members of any the ſaid Aſſocia<g ref="char:EOLhyphen"/>tions, after his Father was a Member, may be made Free without any Fine.</p>
+            <p>That the Charters granted to the Merchants Adventu<g ref="char:EOLhyphen"/>rers of <hi>England,</hi> to the Merchants trading to the <hi>Levant,</hi> to the <hi>Eaſt-land</hi> Merchants, to the <hi>Muſcovia</hi> and <hi>Ruſsia</hi> Mer<g ref="char:EOLhyphen"/>chants, and to the Merchants trading to the <hi>Eaſt-Indies,</hi> may be confirmed, with the Enjoyment of any further Priviled<g ref="char:EOLhyphen"/>ges herein granted to the <hi>French, Spaniſh, Portugal,</hi> and <hi>Italian</hi> Merchants, they conforming to the Rules herein ap<g ref="char:EOLhyphen"/>pointed for the Admiſsion of Members, <hi>&amp;c.</hi>
+            </p>
+            <p>That all perſons, Engliſh and Strangers, paſsing Goods inwards or outwards, may give a Bill to the Officer of that Society, under whoſe cognizance the place is, and pay to him the Impoſitions ſet by that Society, and that the Offi<g ref="char:EOLhyphen"/>cer certifie under one Bill to the Collector, Cuſtomer, or other Officer for the Cuſtoms, whether he be a Member of of that Society, or not; and if he be not a Member of the ſaid Society, he ſhall pay the Cuſtom to His Majeſty, that Aliens are appointed to pay.</p>
+            <p>That no Officer paſs any Entry without ſuch Certificate, on the penalty of looſing his or their places.</p>
+            <p>That all, and any goods that ſhall be ſhipped to be tranſ<g ref="char:EOLhyphen"/>ported,
+<pb n="16" facs="tcp:47804:9"/>or any goods landed from Foreign parts, that have not firſt paid the Impoſitions ſet by that Society of Merchants, under whoſe cognizance the place is, to or from which the ſaid goods are exported or imported, ſhall be for<g ref="char:EOLhyphen"/>feited ⅓ to the Kings Majeſty, ⅓ to the Officer, and the other third to the Society of Merchants.</p>
+            <p>And that when any Seizure is made, or Information brought for the cauſe aforeſaid, no Licence to compound may be granted to the Seizor or Informer, but onely by and with the conſent of the Governor, Deputy, and Aſsi<g ref="char:EOLhyphen"/>ſtants of that Society concerned, or the major part of them, whereof the Governor or his Deputy to be one.</p>
+            <p>Provided, That this Aſſociation here deſired, ſhall not prejudice a Charter granted to the Merchants of <hi>Exeter,</hi> trading to <hi>France,</hi> confirmed by Parliament in the fourth of King <hi>James;</hi> but that they may be at liberty to conti<g ref="char:EOLhyphen"/>nue the ſame, or joyn in the Aſſociation, as they ſee cauſe.</p>
+            <p>That the Statute made in the third Year of King <hi>James, Chap.</hi> 6. giving leave to all perſons to trade into <hi>Spain, Por<g ref="char:EOLhyphen"/>tugal</hi> and <hi>France,</hi> may be Repealed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47804:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
